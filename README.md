@@ -1,4 +1,4 @@
-action lines
+GEGL Metallic
 =========
 
 A custom GEGL operation (and by extension GIMP filter) that makes people metal
