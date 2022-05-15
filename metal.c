@@ -31,7 +31,7 @@ property_double (solar1, _("Solarization of Red Channel"), 2.7)
   ui_meta     ("rgb-label", _("Red frequency"))
   ui_meta     ("hsl-label", _("Hue frequency"))
 
-property_double  (solar2, _("Soloarization of Green Channel"), 2.8)
+property_double  (solar2, _("Solarization of Green Channel"), 2.8)
   value_range (2.2, 4)
   ui_meta     ("sensitive", "! cpn-2-keep")
   ui_meta     ("label", "[color-model {rgb} : rgb-label,"
