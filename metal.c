@@ -63,6 +63,7 @@ property_double (desaturate, _("Desaturation Channel Lock"), 0.0)
     description(_("Filter has no options but is needed"))
     value_range (0.0, 0.0)
     ui_range (0.0, 0.0)
+    ui_meta     ("role", "output-extent")
 
 
 #else
