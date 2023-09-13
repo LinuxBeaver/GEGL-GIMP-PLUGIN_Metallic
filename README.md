@@ -61,5 +61,9 @@ meson setup --buildtype=release build
 ninja -C build
 ```
 
+More previews of this based plugin turning things gold
+
+![image](https://github.com/LinuxBeaver/gegl-metallic---Make-people-metal-with-GEGL/assets/78667207/247e4d8e-5b6f-4b17-a8f5-561470be0bf7)
 
 
+![image](https://github.com/LinuxBeaver/gegl-metallic---Make-people-metal-with-GEGL/assets/78667207/8519297a-26cf-4d1e-a6da-b71429bd2628)
