@@ -1,7 +1,8 @@
 GEGL Metallic
 =========
 
-![image](https://github.com/LinuxBeaver/gegl-metallic---Make-people-metal-with-GEGL/assets/78667207/c76ca802-13aa-41d5-ae86-68f6c34d53da)
+![image](https://github.com/LinuxBeaver/gegl-metallic---Make-people-metal-with-GEGL/assets/78667207/b71f8ead-fae2-4016-84aa-10bd33596d0e)
+
 
 ![image](https://github.com/LinuxBeaver/gegl-metallic---Make-people-metal-with-GEGL/assets/78667207/25cfe85a-7c3a-4136-bc49-64c09dcd5c68)
 
