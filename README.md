@@ -1,3 +1,6 @@
+Download binaries here.
+https://github.com/LinuxBeaver/gimp-metallic-plugin-Make-people-metal-with-GEGL/releases
+
 GEGL Metallic
 =========
 
