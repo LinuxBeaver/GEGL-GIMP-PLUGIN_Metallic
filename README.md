@@ -15,13 +15,16 @@ A custom GEGL operation (and by extension GIMP filter) that makes people metal
 
 ## OS specific location to put GEGL Filter binaries 
 
-Windows
+**Windows**
+
  C:\\Users\<YOUR NAME>\AppData\Local\gegl-0.4\plug-ins
  
- Linux 
+**Linux**
+ 
  /home/(USERNAME)/.local/share/gegl-0.4/plug-ins
  
- Linux (Flatpak)
+**Linux (Flatpak)**
+ 
  /home/(USERNAME)/.var/app/org.gimp.GIMP/data/gegl-0.4/plug-ins
 
 
@@ -39,11 +42,8 @@ meson setup --buildtype=release build
 ninja -C build
 cp build/high-pass-box.so ~/.local/share/gegl-0.4/plug-ins
 ```
-
 If you have an older version of gegl you may need to copy to `~/.local/share/gegl-0.3/plug-ins`
 instead (on Ubuntu 18.04 for example).
-
-
 
 ### Windows
 
@@ -67,6 +67,5 @@ ninja -C build
 More previews of this based plugin turning things gold
 
 ![image](https://github.com/LinuxBeaver/gegl-metallic---Make-people-metal-with-GEGL/assets/78667207/247e4d8e-5b6f-4b17-a8f5-561470be0bf7)
-
 
 ![image](https://github.com/LinuxBeaver/gegl-metallic---Make-people-metal-with-GEGL/assets/78667207/8519297a-26cf-4d1e-a6da-b71429bd2628)
